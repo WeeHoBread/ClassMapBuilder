@@ -1,0 +1,28 @@
+{
+    "m_Name": "Settings",
+    "m_Path": "ProjectSettings/Packages/com.unity.connect.share/Settings.json",
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"C:/Users/weeho/Downloads/TO_FIX/3D Platformer Editor for GDD/Builds/FinalBuild2;C:/Users/weeho/Downloads/TO_FIX/3D Platformer Editor for GDD/Builds/FinalBuild;C:/Users/weeho/Downloads/TO_FIX/3D Platformer Editor for GDD/Builds;E:/OthersFiles/Job Related/E-Learning Developer/3D Platformer Editor for GDD/WebGL Builds/Game Design Challenge;E:/OthersFiles/Job Related/E-Learning Developer/Game Builds/GameDesignChallenge;E:/OthersFiles/Job Related/E-Learning Developer/3D Platformer Editor for GDD/WebGL Builds/GameDesignChallenge;E:/OthersFiles/Job Related/E-Learning Developer/Minecraft Game/Game Design Challenge;E:/OthersFiles/Job Related/E-Learning Developer/Minecraft Game/WebBuild_29March;E:/OthersFiles/Job Related/E-Learning Developer/Minecraft Game/WebBuild_21March;E:/OthersFiles/Job Related/E-Learning Developer/Minecraft Game/WebBuild_18thMarch\"}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "firstTime",
+                "value": "{\"m_Value\":false}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "autoPublish",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "createDefaultBuildsFolder",
+                "value": "{\"m_Value\":true}"
+            }
+        ]
+    }
+}

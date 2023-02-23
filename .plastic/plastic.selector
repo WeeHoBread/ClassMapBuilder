@@ -1,0 +1,4 @@
+repository "3D Platformer Editor for GDD@StriderChino@cloud"
+  path "/"
+    br "/main"
+    co "/main"
